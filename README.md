@@ -3,7 +3,7 @@
 
 ## Tech stack used
 ![Static Badge](https://img.shields.io/badge/HTML-D4A20B)
-![Static Badge](https://img.shields.io/badge/CSS-8A2BE2)
+![Static Badge](https://img.shields.io/badge/CSS-0FC7CD)
 
 
 ## Usage
